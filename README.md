@@ -7,3 +7,6 @@ by researchers at the National Consortium for the Study of Terrorism and Respons
 Objective and motivation:
 In first part our project, we analyze the data available in the global terrorism database (GTD). This analysis will provide insight about terrorism occuring at different parts of the world and their impact on the society. 
 In the second part of our project, our main aim is to do a binary classification that classifies terror attacks as a ‘successful mission’ or a ‘failed mission’ depending upon the independent features provided in the global terrorism database.
+
+DATASET LINK : https://www.kaggle.com/START-UMD/gtd
+DATASET VARIABLES: https://start.umd.edu/gtd/downloads/Codebook.pdf
